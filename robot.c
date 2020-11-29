@@ -7,6 +7,7 @@
  * @author Tanya L. Crenshaw, Nathan Schmedake, Hewlett            De Lara
  * @since August 2013
  *
+ * Hewlett was here for checkpoint 5 Lab 13
  */
 
 #include "robot.h"
@@ -58,7 +59,7 @@ void dalekPrintAscii(void)
          "%s     <(0---0)>     \n"        
          "%s     |       |     \n"
          "%s    < ------- >    \n"
-         "%s    o         o    \n"
+         "%s    o Hewlett o    \n"
          "%s    o  0  ()  o    \n"
 	 "%s   o           o   \n"
    	 "%s o o o o o o o o o \n"
