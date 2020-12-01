@@ -38,7 +38,7 @@ void robotPrintAscii(void)
 	 "%s    i_i    \n"
 	 "%s   [c_c]   \n"
 	 "%s  /|___|\\ \n"
-	 "%s   d   b   \n",blank, blank, blank, blank);
+	 "%s   |   |   \n",blank, blank, blank, blank);
 
   blank = blank - 10;
 }
