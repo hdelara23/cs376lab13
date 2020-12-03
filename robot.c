@@ -4,7 +4,11 @@
  * A file that contains the supporting functions for main() in the
  * ~/robots example source for Software Engineering.
  *
+<<<<<<< HEAD
  * @author Tanya L. Crenshaw, Nathan Schmedake, Hewlett            De Lara
+=======
+ * @author Tanya L. Crenshaw, Nathan Schmedake, Gareth Rice
+>>>>>>> c618239ba5808c2a9a7a30d08c2e0bf55a7b1ca9
  * @since August 2013
  *
  * Hewlett was here for checkpoint 5 Lab 13
@@ -37,9 +41,13 @@ void robotPrintAscii(void)
   printf("\n\n"
 	 "UWR: Unidentified Wheeled Robot\n"
 	 "%s    i_i    \n"
+<<<<<<< HEAD
 	 "%s   [>_<]   \n"
+=======
+	 "%s   [c_c]   \n"
+>>>>>>> c618239ba5808c2a9a7a30d08c2e0bf55a7b1ca9
 	 "%s  /|___|\\ \n"
-	 "%s   d   b   \n",blank, blank, blank, blank);
+	 "%s   |   |   \n",blank, blank, blank, blank);
 
   blank = blank - 10;
 }
